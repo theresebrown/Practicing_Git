@@ -1,0 +1,277 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px dotted red; */
+   }
+
+
+   .container{
+        width: 880px;
+        color: black;
+        background-color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        margin: 0px auto;
+        padding: 0px;
+   }
+
+   .header{
+        min-height: 100px;
+        display: inline-block
+   }
+
+   #globe_img{
+       vertical-align: top;
+       display: inline-block;   
+       width: 100px;
+       height: 100px;
+   }
+
+   #internet_heading{
+        vertical-align: bottom;
+        display: inline-block;
+        color: #474747;
+        font-size: 50px;
+        padding-bottom: 15px;
+   }
+
+   .blue_color{
+       color: #22659e;
+   }
+
+   .www_banner{
+       background: linear-gradient(180deg, rgba(55,104,147,1) 0%, rgba(111,151,187,1) 51%, rgba(36,80,118,1) 100%);
+       width: 865px;
+       margin-top: -15px;
+       padding: 10px 0px 10px 15px;
+       color: white;
+       font-size: 32px;
+   }
+
+   .main_body{
+        background: linear-gradient(180deg, rgba(231,227,227,1) 0%, rgba(255,255,255,1) 30%);
+        min-height: 400px;
+        margin-top: -10px;
+    }
+
+   .sidebar{
+        display: inline-block;
+        padding: 10px 5px 10px 5px;
+        width: 200px;
+        margin-top: 20px
+   }
+
+   .size14{
+       font-size: 14px;
+       font-weight: bold;
+   }
+
+   #red_color{
+       color: red;
+   }
+
+   .textbold{
+       font-weight: bold;
+   }
+
+   .blue_button{
+        background: linear-gradient(0deg, rgba(34,101,158,1) 0%, rgba(87,148,200,1) 54%);;
+        width: 180px;
+        border-radius: 8px;
+        color: white;
+        padding: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 14px;
+        display: inline-block;
+        list-style: none;
+        box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2), 0 2px 8px 0 rgba(0,0,0,0.19);  
+   }
+
+   .orange_button{
+        background: linear-gradient(0deg, rgba(234,116,0,1) 0%, rgba(231,158,87,1) 54%);
+        width: 180px;
+        border-radius: 8px;
+        color: white;
+        padding: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 14px;
+        display: inline-block;
+        list-style: none;
+        box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2), 0 2px 8px 0 rgba(0,0,0,0.19);  
+    }
+
+    .reinvent_pic{
+        background-image: url('images/ad_background.png');
+        height: 250px;
+        width: 200px;
+        margin: auto;
+        position: relative;
+        box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2), 0 2px 8px 0 rgba(0,0,0,0.19);  
+    }
+
+    .reinvent_text{
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        padding: 10px;
+        display: block;
+    }
+
+    #ninja_pic{
+        width: 80px;
+        height: 100px;
+        margin: auto;
+        display: block;
+    }
+
+    .teal_button{
+        background: linear-gradient(0deg, rgba(0,193,223,1) 0%, rgba(144,226,238,1) 54%);
+        width: 120px;
+        border-radius: 8px;
+        color: white;
+        padding: 10px;
+        margin-left: 30px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 14px;
+        display: inline-block;
+        list-style: none;
+        box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2), 0 2px 8px 0 rgba(0,0,0,0.19);  
+    }
+
+    #teal1{
+        font-weight: bold;
+        font-size: 10px;
+        color: #a7e5f1;
+    }
+
+    #teal2{
+        font-weight: bold;
+        font-size: 10px;
+        color: #c9f6ff;
+    }
+
+    #teal3{
+        font-weight: bold;
+        font-size: 10px;
+    }
+
+
+
+   .internet_body{
+        vertical-align: top;
+        display: inline-block;
+        margin-left: 15px;
+        width: 635px;
+        padding: 10px 5px 10px 5px;
+   }
+
+   #home_pic{
+       width: 20px;
+       height: 20px;
+   }
+
+   #blue_color_DNS{
+        color: #22659e;
+        font-weight: normal;
+        margin-right: 385px;
+        margin-top: -15px;
+   }
+
+    .aligntableright{
+        vertical-align: top;
+        display: inline-block;
+    }
+
+   #phone_pic{
+       width: 40px;
+       height: 40px;
+   }
+
+   .gray_color{
+       color: #666666;
+       font-size: 10px;
+       text-align: left;
+       font-weight: normal;
+   }
+
+   .tealphoneno{
+        font-weight: bold;
+        color: #00c0df;
+        font-size: 25px;
+   }
+
+   .medteal{
+       color: #0098af;
+   }
+
+   .blue_heading{
+        font-size: 16px;
+        color: #22659e;
+        font-weight: bold;
+        line-height: 1.5;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+   ul{
+       list-style-position: inside;
+   }
+
+   ul li{
+       list-style-position: inside;
+       margin-left: 3em;
+       padding-bottom: 5px;
+       text-indent: -1em;
+   }
+
+   ol{
+       list-style-position: inside;
+   }
+
+   ol li{
+        list-style-position: inside;
+        margin-left: 3em;
+        padding-bottom: 5px;
+        text-indent: -1em;    
+   }
+
+   #clientserver_pic{
+       margin: auto;
+       width: 230px;
+       height: 80px;
+       display: block;
+   }
+
+   .big3{
+       border: 4px solid #0085e0;
+       width: 620px;
+       min-height: 150px;
+       margin-left: 10px;
+       box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2), 0 2px 8px 0 rgba(0,0,0,0.19); 
+       display: inline-block; 
+       vertical-align:top;
+       text-align: left;
+   }
+
+   #html_pic{
+     width: 120px;
+     height: 120px;
+     display: inline-block;
+     vertical-align: top;
+     padding: 10px;
+}
+
+
+    .big3_table{
+        display: inline-block;
+        width: 475px;
+        padding-bottom: 5px
+    }
+
+
+
